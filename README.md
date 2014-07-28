@@ -41,13 +41,13 @@ Copyright (c) {year} {author} {mail}
         > > Comment: greetings to my mother \o
 
     * multiple contributions:
-        > Jane Doe
-        > > Date: 23.08.2014
-        > > Summary: added example #1
-        >
-        > > Date: 24.08.2014
-        > > Summary: added example #2
-        > > Comment: 2 examples are better then 1
+        > Jane Doe  
+        > > Date: 23.08.2014  
+        > > Summary: added example #1  
+        >  
+        > > Date: 24.08.2014  
+        > > Summary: added example #2  
+        > > Comment: 2 examples are better then 1  
 
 #### .editorconfig
 * contains formatting instructions for editors
