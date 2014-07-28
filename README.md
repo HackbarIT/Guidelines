@@ -34,13 +34,10 @@ Copyright (c) {year} {author} {mail}
     * optional:
         * comment from contributor
 * formated like this:
-    * single contribution:
         > John Doe
         > > Date: 17.05.2014
         > > Summary: changed the README.md
         > > Comment: greetings to my mother \o
-
-    * multiple contributions:
         > Jane Doe  
         > > Date: 23.08.2014  
         > > Summary: added example #1  
