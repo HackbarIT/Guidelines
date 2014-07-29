@@ -56,6 +56,7 @@
 * charset: UTF-8
 * new line at the end of files
 * indentation: 4 spaces
+* single-quotes
 * no trailing whitespace
 
 ---
