@@ -4,9 +4,8 @@
 * required:
     * [LICENSE](#license)
 * recommended:
-    * [LICENSE.md](#licensemd)
     * [README.md](#readmemd)
-    * [CONTRIBUTORS.md](#contributors.md)
+    * [CONTRIBUTORS](#contributors)
     * [.editorconfig](#editorconfig)
 
 #### LICENSE
@@ -15,17 +14,13 @@ Copyright (c) {year} {author} {mail}
 {license text}
 * we recommend our [customized ISC-license](https://github.com/HackbarIT/Guidelines/blob/master/LICENSE.md)
 
-#### LICENSE.md
-* the same content as LICENSE
-* formatted with Markdown
-
 #### README.md
 * what the project is about
 * how the project should be used
 * who is the maintainer of the project
 * formatted with Markdown
 
-#### CONTRIBUTORS.md
+#### CONTRIBUTORS
 * containing these things:
     * required:
         * contributor name(s)
@@ -34,17 +29,20 @@ Copyright (c) {year} {author} {mail}
     * optional:
         * comment from contributor
 * formated like this:
+    * single contribution:
         > John Doe
-        > > Date: 17.05.2014
-        > > Summary: changed the README.md
-        > > Comment: greetings to my mother \o
-        > Jane Doe  
-        > > Date: 23.08.2014  
-        > > Summary: added example #1  
-        >  
-        > > Date: 24.08.2014  
-        > > Summary: added example #2  
-        > > Comment: 2 examples are better then 1  
+        >     Date: 17.05.2014
+        >     Summary: changed the README.md
+        >     Comment: greetings to my mother \o
+
+    * multiple contributions:
+        > Jane Doe
+        >     Date: 23.08.2014
+        >     Summary: added example #1
+        >
+        >     Date: 24.08.2014
+        >     Summary: added example #2
+        >     Comment: 2 examples are better then 1
 
 #### .editorconfig
 * contains formatting instructions for editors
