@@ -52,6 +52,7 @@
 ---
 
 ### Code-Formatting
+* use [Semantic Versioning](http://semver.org/)
 * unix-style line-endings
 * charset: UTF-8
 * new line at the end of files
