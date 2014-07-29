@@ -59,9 +59,11 @@
 * single-quotes
 * no trailing whitespace
 * no break before braces:
-```
-if (statement) {
-    doThings();
+```cpp
+int main() {
+    if (3 > 2) {
+            // many code. such quality. wow
+    }
 }
 ```
 
