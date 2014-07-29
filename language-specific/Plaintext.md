@@ -1,4 +1,4 @@
-# Markdown-specific formatting
+# Plaintext-specific formatting
 
 * unix-style line-endings
 * charset: UTF-8
