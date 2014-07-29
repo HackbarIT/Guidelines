@@ -56,7 +56,7 @@
 * unix-style line-endings
 * charset: UTF-8
 * new line at the end of files
-* indentation: 4 spaces
+* indentation: tabs if possible, 4 spaces if not
 * single-quotes
 * no trailing whitespace
 * no break before braces:
