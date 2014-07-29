@@ -40,6 +40,7 @@
         * date(s) of contribution(s)
         * summary of contribution(s)
     * optional:
+        * email address
         * comment from contributor
 * see [example](https://github.com/HackbarIT/Guidelines/blob/master/examples/CONTRIBUTORS)
 
