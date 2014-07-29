@@ -1,13 +1,13 @@
-# Guidelines for all projects of this organization
+# Organization Guidelines
 
-## Contents
-* [Contents of Repositories](#contentsofrepositories)
+## Content
+* [Common Files in Repositories](#commonfilesinrepositories)
 * [Code-Formatting](#code-formatting)
 * [Folderstructur (proposal)](#folderstructur-proposal)
 
+---
 
-
-### Contents of Repositories
+### Common Files in Repositories
 * required:
     * [LICENSE](#license)
 * recommended:
@@ -52,7 +52,7 @@
 
 
 
-### folderstructur (proposal)
+### Folderstructur (proposal)
 * libs - contains binary dependencies
 * deps - contains source dependencies
 * doc - contains documentation
