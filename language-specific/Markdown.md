@@ -3,6 +3,6 @@
 * unix-style line-endings
 * charset: UTF-8
 * new line at the end of files
-* _indentation: 4 spaces_
+* __indentation: 4 spaces__
 * single-quotes
-* _trailing whitespace explicitly allowed_
+* __trailing whitespace explicitly allowed__
