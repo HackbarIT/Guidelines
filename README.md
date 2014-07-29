@@ -70,8 +70,8 @@ int main() {
 ---
 
 ### Folderstructur (proposal)
-* libs - contains binary dependencies
-* deps - contains source dependencies
+* libs - contains library dependencies
+* deps - contains other dependencies
 * doc - contains documentation
 * build - empty directory for (temporary) files created during buildprocess, etc.
 * src - contains the source of this project
