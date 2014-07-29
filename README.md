@@ -23,7 +23,7 @@
 
 #### LICENSE
 * the complete license of the project
-* every file that should be licensed with this must contain a reference to the LICENSE-file AND/OR the README.md must mention the files AND/OR how the project is licensed
+* every file that should be licensed with this must contain a reference to the LICENSE-file AND/OR the README.md must have licensing information
 * we recommend our [customized ISC-license](https://github.com/HackbarIT/Guidelines/blob/master/LICENSE.md)
 * see [example](https://github.com/HackbarIT/Guidelines/blob/master/examples/LICENSE)
 
@@ -31,6 +31,7 @@
 * what the project is about
 * how the project should be used
 * who is the maintainer of the project
+* how the whole project/certain files/etc. is licensed
 * formatted with Markdown
 
 #### CONTRIBUTORS
