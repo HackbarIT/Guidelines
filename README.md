@@ -1,11 +1,17 @@
 # Organization Guidelines
 
-## Content
+## Table of Contents
 * [Common Files in Repositories](#commonfilesinrepositories)
+    * [LICENSE](#license)
+    * [README.md](#readmemd)
+    * [CONTRIBUTORS](#contributors)
+    * [.editorconfig](#editorconfig)
 * [Code-Formatting](#code-formatting)
 * [Folderstructur (proposal)](#folderstructur-proposal)
 
+
 ---
+
 
 ### Common Files in Repositories
 * required:
@@ -17,7 +23,7 @@
 
 #### LICENSE
 * the complete license of the project
-* every file that should be licensed with this must contain a reference to the LICENSE-file
+* every file that should be licensed with this must contain a reference to the LICENSE-file AND/OR the README.md must mention the files AND/OR how the project is licensed
 * we recommend our [customized ISC-license](https://github.com/HackbarIT/Guidelines/blob/master/LICENSE.md)
 * see [example](https://github.com/HackbarIT/Guidelines/blob/master/examples/LICENSE)
 
@@ -41,7 +47,7 @@
 * contains formatting instructions for editors
 * see [EditorConfig](http://editorconfig.org/)
 
-
+---
 
 ### Code-Formatting
 * unix-style line-endings
@@ -50,7 +56,7 @@
 * indentation: 4 spaces
 * no trailing whitespace
 
-
+---
 
 ### Folderstructur (proposal)
 * libs - contains binary dependencies
