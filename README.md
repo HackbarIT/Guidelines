@@ -7,6 +7,7 @@
     * [CONTRIBUTORS](#contributors)
     * [.editorconfig](#editorconfig)
 * [Code-Formatting](#code-formatting)
+    * [language-specific formatting](https://github.com/HackbarIT/Guidelines/blob/master/language-specific/README.md)
 * [Folderstructur (proposal)](#folderstructur-proposal)
 
 
@@ -67,6 +68,8 @@ int main() {
     }
 }
 ```
+
+see [language-specific formatting](https://github.com/HackbarIT/Guidelines/blob/master/language-specific/README.md) for details
 
 ---
 
