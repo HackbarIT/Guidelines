@@ -1,7 +1,13 @@
 # Guidelines for all projects of this organization
 
+## Contents
+* [Contents of Repositories](#contentsofrepositories)
+* [Code-Formatting](#code-formatting)
+* [Folderstructur (proposal)](#folderstructur-proposal)
 
-## Contents of Repositories
+
+
+### Contents of Repositories
 * required:
     * [LICENSE](#license)
 * recommended:
@@ -11,6 +17,7 @@
 
 #### LICENSE
 * the complete license of the project
+* every file that should be licensed with this must contain a reference to the LICENSE-file
 * we recommend our [customized ISC-license](https://github.com/HackbarIT/Guidelines/blob/master/LICENSE.md)
 * see [example](https://github.com/HackbarIT/Guidelines/blob/master/examples/LICENSE)
 
@@ -35,14 +42,17 @@
 * see [EditorConfig](http://editorconfig.org/)
 
 
-## Code-Formatting
+
+### Code-Formatting
 * unix-style line-endings
 * charset: UTF-8
 * new line at the end of files
 * indentation: 4 spaces
 * no trailing whitespace
 
-## folderstructur (proposal)
+
+
+### folderstructur (proposal)
 * libs - contains binary dependencies
 * deps - contains source dependencies
 * doc - contains documentation
