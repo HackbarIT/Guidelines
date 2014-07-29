@@ -1,12 +1,12 @@
 John Doe <johndoe@example.com>
-    Date: 2014-05-17
-    Summary: changed the README.md
-    Comment: greetings to my mother \o
+	Date: 2014-05-17
+	Summary: changed the README.md
+	Comment: greetings to my mother \o
 
 Jane Doe <janedoe@example.com>
-    Date: 2014-08-23
-    Summary: added example #1
+	Date: 2014-08-23
+	Summary: added example #1
 
-    Date: 2014-08-24
-    Summary: added example #2
-    Comment: 2 examples are better then 1
+	Date: 2014-08-24
+	Summary: added example #2
+	Comment: 2 examples are better then 1
