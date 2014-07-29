@@ -57,6 +57,12 @@
 * new line at the end of files
 * indentation: 4 spaces
 * single-quotes
+* no break before braces:
+```
+if (statement) {
+    doThings();
+}
+```
 * no trailing whitespace
 
 ---
