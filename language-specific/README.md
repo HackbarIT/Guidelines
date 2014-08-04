@@ -1,4 +1,6 @@
 # language-specific formatting
 
-* [Markdown](https://github.com/HackbarIT/Guidelines/blob/master/language-specific/Markdown.md)
-* [Plaintext](https://github.com/HackbarIT/Guidelines/blob/master/language-specific/Plaintext.md)
+* [Markdown](Markdown.md)
+* [Plaintext](Plaintext.md)
+
+_highlighted lines differ from standard formatting_

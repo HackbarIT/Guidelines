@@ -7,7 +7,7 @@
     * [CONTRIBUTORS](#contributors)
     * [.editorconfig](#editorconfig)
 * [Code-Formatting](#code-formatting)
-    * [language-specific formatting](https://github.com/HackbarIT/Guidelines/blob/master/language-specific/README.md)
+    * [language-specific formatting](language-specific/README.md)
 * [Folderstructur (proposal)](#folderstructur-proposal)
 
 
@@ -25,8 +25,7 @@
 #### LICENSE
 * the complete license of the project
 * every file that should be licensed with this must contain a reference to the LICENSE-file AND/OR the README.md must have licensing information
-* we recommend our [customized ISC-license](https://github.com/HackbarIT/Guidelines/blob/master/LICENSE.md)
-* see [example](https://github.com/HackbarIT/Guidelines/blob/master/examples/LICENSE)
+* we recommend our customized ISC-license (see [example](examples/LICENSE))
 
 #### README.md
 * what the project is about
@@ -44,7 +43,7 @@
     * optional:
         * email address
         * comment from contributor
-* see [example](https://github.com/HackbarIT/Guidelines/blob/master/examples/CONTRIBUTORS)
+* see [example](examples/CONTRIBUTORS)
 
 #### .editorconfig
 * contains formatting instructions for editors
@@ -69,7 +68,7 @@ int main() {
 }
 ```
 
-see [language-specific formatting](https://github.com/HackbarIT/Guidelines/blob/master/language-specific/README.md) for details
+see [language-specific formatting](language-specific/README.md) for details
 
 ---
 
