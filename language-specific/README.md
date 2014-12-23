@@ -2,5 +2,6 @@
 
 * [Markdown](Markdown.md)
 * [Plaintext](Plaintext.md)
+* [Python](Python.md)
 
-_highlighted lines differ from standard formatting_
+_highlighted lines differ from [standard formatting](../README.md#code-formatting)_
