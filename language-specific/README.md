@@ -4,4 +4,4 @@
 * [Plaintext](Plaintext.md)
 * [Python](Python.md)
 
-_highlighted lines differ from [standard formatting](../README.md#code-formatting)_
+__highlighted lines differ from [standard formatting](../README.md#code-formatting)__
