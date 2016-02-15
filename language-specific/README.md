@@ -4,5 +4,6 @@
 * [Plaintext](Plaintext.md)
 * [Python](Python.md)
 * [JSON](JSON.md)
+* [JavaScript](JavaScript.md)
 
 __highlighted lines differ from [standard formatting](../README.md#code-formatting)__
